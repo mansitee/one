@@ -1,7 +1,7 @@
 {
-    "name": "RedCherry",
-    "short_name": "RedCherry",
-    "description": "RedCherry Simple PWA",
+    "name": "simalink",
+    "short_name": "simalink",
+    "description": "simalink Simple PWA",
     "icons": [
         {
             "src": "fav-192.png",
@@ -27,8 +27,8 @@
             "type": "image/jpeg"
         }
     ],
-    "background_color": "#af0a1a",
-    "theme_color": "#af0a1a",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
     "display": "fullscreen",
     "orientation": "any",
     "start_url": ".",
