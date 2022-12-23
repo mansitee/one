@@ -6,7 +6,7 @@
  * learn more in Github : https://github.com/alirahimi818/simple-PWA
  */
 
-var cache_storage_name = 'redcherry-pwa-1.0';
+var cache_storage_name = 'simalink-1.0';
 var start_page = 'index.html';
 var offline_page = 'offline.html';
 var first_cache_urls = [start_page, offline_page];
