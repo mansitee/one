@@ -36,7 +36,7 @@
     "dir": "rtl"
     "lang": "id",
     "display_override": [
-    "fullscreen",
+    "minimal-ui",
     "window-controls-overlay",
     "browser"
   ],
