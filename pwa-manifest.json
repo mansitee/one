@@ -29,11 +29,22 @@
     ],
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
-    "display": "fullscreen",
-    "orientation": "any",
+    "orientation": "portrait",
     "start_url": ".",
     "url": "index.html",
     "scope": ".",
-    "lang": "fa-IR",
     "dir": "rtl"
+    "lang": "id",
+    "display_override": [
+    "fullscreen",
+    "window-controls-overlay",
+    "browser"
+  ],
+  "categories": [ "lifestyle"
+  ], 
+   "short_name": "mansitee.lite",
+  "prefer_related_applications": false
 }
+
+
+
