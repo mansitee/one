@@ -27,11 +27,11 @@
             "type": "image/jpeg"
         }
     ],
+    "id": "/?source=pwa",
+    "start_url": "/?source=pwa",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
     "orientation": "portrait",
-    "start_url": ".",
-    "url": "index.html",
     "scope": ".",
     "dir": "rtl"
     "lang": "id",
