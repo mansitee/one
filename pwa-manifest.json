@@ -37,9 +37,7 @@
     "lang": "id",
     "display_override": [
     "standalone",
-    "window-controls-overlay",
-    "browser"
-  ],
+    "window-controls-overlay",],
   "categories": [ "lifestyle"
   ], 
    "short_name": "mansitee.lite",
